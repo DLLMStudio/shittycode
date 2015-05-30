@@ -1,0 +1,2 @@
+# shittycode
+for game development
